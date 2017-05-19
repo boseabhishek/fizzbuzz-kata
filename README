@@ -1,0 +1,12 @@
+# app
+
+Fizz BUzz Kata Implementation in Clojure
+
+## Usage
+
+# To run test, use
+
+lein midje
+
+
+For details on Midje, see https://github.com/marick/Midje/wiki/Lein-midje
